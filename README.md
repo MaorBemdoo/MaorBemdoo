@@ -34,7 +34,7 @@
 <a href="https://twitter.com/BemdooMaor" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="BemdooMaor"></a>
 <a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bemdoo-maor-449698279" height="50" width="40" ></a>
 <a href="https://hashnode.com/@bemdoom" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@bemdoom" height="50" width="50" ></a>
-<a href="https://medium.com/@bemdoo.maor1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bemdoo.maor1" height="30" width="40" ></a>
+<a href="https://medium.com/@bemdoo.maor1" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@bemdoo.maor1" height="50" width="50" ></a>
 <a href="https://www.hackerrank.com/bemdoo_maor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bemdoo_maor" height="30" width="40" ></a><br><br>
 <img src="https://img.shields.io/badge/Gmail-bemdoo.maor1@gmail.com-red?style=flat-square&logo=gmail">
 </p>
