@@ -5,7 +5,7 @@
 
 <p align="center"><i>15 year old passinate <b>Software Engineer</b> specializing in Full-stack web development.</i></p><br>
 
-<h2>👨‍💻Languages and Tools:</h2>
+<h2 align="center">👨‍💻Languages and Tools</h2>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react"/>
 </p>
@@ -20,16 +20,16 @@
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=vscode,vim,visualstudio,jenkins,atom,codepen"/>
-</p>
+</p><br>
 
-<h2>📈Github Stats</h2><br>
+<h2 align="center">📈Github Stats</h2><br>
 <p align="center"><img  alt="MaorBemdoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MaorBemdoo?theme=tokyonight&preferLogin=false"/><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaorBemdoo&theme=zenburn">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorBemdoo&layout=pie&theme=dracula&langs_count=7"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaorBemdoo&theme=gruvbox"/><br>
 <img src="https://github-profile-trophy.vercel.app/?username=MaorBemdoo&theme=gitdimmed&row=2&column=3"></p><br><br>
 
-<h2>🤼Want to collaborate on  your next project</h2><br>
+<h2 align="center">🤼Want to collaborate on  your next project</h2><br>
 <p align="center">
 <a href="https://twitter.com/BemdooMaor" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="BemdooMaor"></a>
 <a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bemdoo-maor-449698279" height="50" width="40" ></a>
