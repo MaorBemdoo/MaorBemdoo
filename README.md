@@ -23,7 +23,7 @@
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
-<p align="center"><img  alt="MaorBemdoo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MaorBemdoo?theme=tokyonight&preferLogin=false"/><br>
+<p align="center"><img  alt="MaorBemdoo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaorBemdoo&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaorBemdoo&theme=zenburn">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorBemdoo&theme=gruvbox">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorBemdoo&layout=pie&theme=dracula&langs_count=7"/><br>
