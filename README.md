@@ -32,10 +32,17 @@
 
 <h2 align="center">🤼Want to collaborate on  your next project</h2><br>
 <p align="center">
-<a href="https://twitter.com/BemdooMaor" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="BemdooMaor"></a>
-<a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bemdoo-maor-449698279" height="50" width="40" ></a>
-<a href="https://hashnode.com/@bemdoom" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@bemdoom" height="50" width="50" ></a>
-<a href="https://medium.com/@bemdoo.maor1" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@bemdoo.maor1" height="50" width="50" ></a>
-<a href="https://www.hackerrank.com/bemdoo_maor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bemdoo_maor" height="50" width="50" ></a><br><br>
-<img src="https://img.shields.io/badge/Gmail-bemdoo.maor1@gmail.com-red?style=flat-square&logo=gmail">
+<a href="https://github.com/MaorBemdoo" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo-maor-449698279"></a>
+<a href="https://twitter.com/BemdooMaor" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+</a><br>
+<a href="https://medium.com/@bemdoo.maor1" target="_blank">
+<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="https://hashnode.com/@bemdoom" target="_blank"><img src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=hashnode&logoColor=white" style="margin-bottom: 5px;" alt="@bemdoom"></a>
+<a href="https://www.hackerrank.com/bemdoo_maor" target="_blank"><img src="https://img.shields.io/badge/hackerrank-darkgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo_maor"></a><br>
+<a href="maito:bemdoo.maor1@gmail.com"><img src="https://img.shields.io/badge/Gmail-bemdoo.maor1@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
