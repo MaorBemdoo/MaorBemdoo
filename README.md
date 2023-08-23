@@ -46,3 +46,5 @@
 <a href="https://www.hackerrank.com/bemdoo_maor" target="_blank"><img src="https://img.shields.io/badge/hackerrank-darkgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo_maor"></a><br>
 <a href="maito:bemdoo.maor1@gmail.com"><img src="https://img.shields.io/badge/Gmail-bemdoo.maor1@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
