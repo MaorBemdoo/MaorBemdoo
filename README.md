@@ -7,19 +7,21 @@
 
 <h2 align="center">👨‍💻Languages and Tools</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react"/>
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,react"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=jquery,git,github,bash,figma,webpack"/>
+   <img src="https://skillicons.dev/icons?i=git,github,bash,figma"/>
+   <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
+   <img src="https://skillicons.dev/icons?i=webpack,vite"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=vite,py,django,cpp,arduino,idea"/>
+   <img src="https://skillicons.dev/icons?i=py,django,cpp,arduino,idea,powershell,markdown"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim,jenkins,atom,codepen"/>
+   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim,jenkins,atom,wordpress,codepen"/>
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
