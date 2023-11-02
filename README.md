@@ -35,7 +35,7 @@
 
 <h2 align="center">🤼Want to collaborate on  your next project</h2><br>
 <p align="center">
-<a href="https://github.com/MaorBemdoo" target="_blank">
+<a href="https://github.com/MaorBemdoo">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo-maor-449698279"></a>
