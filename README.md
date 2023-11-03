@@ -31,8 +31,8 @@
    <br>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaorBemdoo&theme=zenburn">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaorBemdoo&theme=gruvbox">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorBemdoo&layout=pie&theme=dracula&langs_count=7"/><br>
-   <img src="https://stats.quine.sh/MaorBemdoo/dependencies?theme=dark"><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorBemdoo&layout=pie&theme=dracula&langs_count=7"/>
+   <img src="https://stats.quine.sh/MaorBemdoo/dependencies?theme=dark">
    <img src="https://github-profile-trophy.vercel.app/?username=MaorBemdoo&theme=gitdimmed&row=2&column=3">
 </p><br><br>
 
