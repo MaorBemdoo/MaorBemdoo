@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim,jenkins,atom,wordpress,codepen"/>
+   <img src="https://skillicons.dev/icons?i=typescript,visualstudio,vscode,vim,jenkins,atom,wordpress,codepen"/>
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
