@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=py,django,cpp,arduino,idea,powershell,markdown"/>
+   <img src="https://skillicons.dev/icons?i=py,django,cpp,arduino,idea,powershell,markdown,materialui"/>
 </p>
 
 <p align="center">
