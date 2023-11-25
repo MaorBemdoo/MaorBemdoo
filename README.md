@@ -13,7 +13,7 @@
 <p align="center">
    <img src="https://skillicons.dev/icons?i=git,github,bash,figma"/>
    <img width="60" height="50px" src="./assets/npm logo.png" alt="npm"/>
-   <img src="https://skillicons.dev/icons?i=webpack,vite"/>
+   <img src="https://skillicons.dev/icons?i=webpack,vite,redux"/>
 </p>
 
 <p align="center">
