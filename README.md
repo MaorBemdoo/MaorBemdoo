@@ -45,8 +45,8 @@
 <a href="https://twitter.com/BemdooMaor" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a><br>
-<a href="https://medium.com/@bemdoo.maor1" target="_blank">
-<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
+<a href="https://instagram.com/bemdoomaor" target="_blank">
+<img src="https://img.shields.io/badge/instagram-red.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://hashnode.com/@bemdoom" target="_blank"><img src="https://img.shields.io/badge/hashnode-blue.svg?&style=for-the-badge&logo=hashnode&logoColor=white" style="margin-bottom: 5px;" alt="@bemdoom"></a>
 <a href="https://www.hackerrank.com/bemdoo_maor" target="_blank"><img src="https://img.shields.io/badge/hackerrank-darkgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo_maor"></a><br>
