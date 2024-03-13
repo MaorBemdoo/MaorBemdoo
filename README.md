@@ -7,17 +7,17 @@
 
 <h2 align="center">👨‍💻Languages and Tools</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,react,git"/>
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,react,git,github"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=github,bash,figma"/>
-   <img width="60" height="50px" src="./assets/npm logo.png" alt="npm"/>
-   <img src="https://skillicons.dev/icons?i=webpack,vite,redux,py"/>
+   <img src="https://skillicons.dev/icons?i=jest,cypress,bash" style="display: inline-block;"/>
+   <img width="60" height="50px" src="./assets/npm logo.png" alt="npm" style="display: inline-block;"/>
+   <img src="https://skillicons.dev/icons?i=figma,webpack,vite,redux,py" style="display: inline-block;"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=django,cpp,arduino,idea,powershell,markdown,materialui,typescript"/>
+   <img src="https://skillicons.dev/icons?i=tailwindcss,django,cpp,arduino,idea,powershell,markdown,materialui,typescript"/>
 </p>
 
 <p align="center">
