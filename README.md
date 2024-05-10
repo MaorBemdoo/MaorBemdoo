@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=tailwindcss,django,cpp,arduino,idea,powershell,markdown,materialui,typescript"/>
+   <img src="https://skillicons.dev/icons?i=tailwindcss,cpp,arduino,idea,powershell,markdown,materialui,typescript,postgresql"/>
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nextjs,visualstudio,vscode,vim,jenkins,atom,wordpress,codepen"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,visualstudio,vscode,jenkins,wordpress,codepen"/>
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
