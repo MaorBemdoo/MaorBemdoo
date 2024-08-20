@@ -3,7 +3,7 @@
 <h3 align="center"><br>
 <b>I'm Bemdoo</b></h3><br><br>
 
-<p align="center"><i>15 year old passionate <b>Software Engineer</b> specializing in Full-stack web development.</i></p><br>
+<p align="center"><i>16 year old passionate <b>Software Engineer</b> specializing in Full-stack web development.</i></p><br>
 
 <h2 align="center">👨‍💻Languages and Tools</h2>
 <p align="center">
