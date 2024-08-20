@@ -43,7 +43,7 @@
 </a>
 <a href="https://linkedin.com/in/bemdoo-maor-449698279" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="bemdoo-maor-449698279"></a>
 <a href="https://twitter.com/BemdooMaor" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/x-black.svg?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a><br>
 <a href="https://instagram.com/bemdoomaor" target="_blank">
 <img src="https://img.shields.io/badge/instagram-red.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=medium style="margin-bottom: 5px;" />
