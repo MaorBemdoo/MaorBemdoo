@@ -13,7 +13,7 @@
 <p align="center">
    <img src="https://skillicons.dev/icons?i=jest,cypress,bash" style="display: inline-block;"/>
    <img width="60" height="50px" src="./assets/npm logo.png" alt="npm" style="display: inline-block;"/>
-   <img src="https://skillicons.dev/icons?i=figma,webpack,vite,redux,py" style="display: inline-block;"/>
+   <img src="https://skillicons.dev/icons?i=yarn,figma,webpack,vite,redux,py" style="display: inline-block;"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,visualstudio,vscode,jenkins,wordpress,codepen"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,visualstudio,vscode,Linux,ubuntu,jenkins,wordpress,codepen"/>
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
