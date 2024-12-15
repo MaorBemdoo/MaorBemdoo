@@ -21,7 +21,11 @@
 </p>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,visualstudio,vscode,Linux,ubuntu,jenkins,wordpress,codepen"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,visualstudio,vscode"/>
+</p>
+
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=docker,graphql,linux,ubuntu,jenkins,wordpress,codepen"/>
 </p><br>
 
 <h2 align="center">📈Github Stats</h2><br>
