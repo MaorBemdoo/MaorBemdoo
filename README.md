@@ -38,6 +38,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorBemdoo&layout=pie&theme=dracula&langs_count=7&exclude_repo=CSC104-Data-Analysis"/><br>
    <img src="https://stats.quine.sh/MaorBemdoo/dependencies?theme=dark" height="230px" style="margin-right: 10px;">
    <img src="https://github-profile-trophy.vercel.app/?username=MaorBemdoo&theme=gitdimmed&row=2&column=3">
+   <img src="https://stats.quira.sh/MaorBemdoo/github?theme=dark">
+   <img src="https://stats.quira.sh/MaorBemdoo/languages-over-time?theme=dark">
+   <img src="https://stats.quira.sh/MaorBemdoo/topics-over-time?theme=dark">
 </p><br><br>
 
 <h2 align="center">🤼Want to collaborate on  your next project</h2><br>
